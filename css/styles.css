@@ -443,6 +443,7 @@ ul li a {
   display: flex;
   flex-wrap: wrap;
   gap: 30px;
+  padding-left: 0px;
 }
 .cards-section-ul {
   border: 1px solid #eeeeee;
